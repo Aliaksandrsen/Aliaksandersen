@@ -5,8 +5,3 @@
 - 💬 Let's talk about Software Architecture, JavaScript, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Hrodna** 🇧🇾</p>
-## Some of my Github Stats
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Aliaksandrsen&show_icons=true&include_all_commits=true)](https://github.com/Aliaksandrsen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaksandrsen&layout=compact)](https://github.com/Aliaksandrsen/github-readme-stats)
