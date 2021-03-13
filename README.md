@@ -4,4 +4,4 @@
 - 🤓 I'm JavaScript Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, JavaScript, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Hrodna** 🇧🇾</p>
+- Originally from **Minsk** 🇧🇾</p>
